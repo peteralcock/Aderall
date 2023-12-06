@@ -1,4 +1,4 @@
-# Aderallr
+# Aderall
 Ad server software for publishers AND advertisers with banner manager, ad server, and ads management platform. Manage all your ads, track every view and every click, handle campaigns, positions and even bill clients.
 
 ## Introduction
